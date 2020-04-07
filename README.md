@@ -6,7 +6,7 @@
 
 | Title | Paper Source | Summary |  Citation |
 | :----- | :-------: | :-----: | :----: |
-| Language Models as Knowledge Bases? | [paper](https://www.aclweb.org/anthology/D19-1250/) | | |
+| Language Models as Knowledge Bases? | [paper](https://www.aclweb.org/anthology/D19-1250/) | | [Petroni et al. (2019)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Language%20Models%20as%20Knowledge%20Bases%3F/citation.bib)|
 | Negated LAMA: Birds cannot fly | [paper](https://arxiv.org/abs/1911.03343) | | |
 | BERT is Not a Knowledge Base (Yet): Factual Knowledge vs. Name-Based Reasoning in Unsupervised QA | [paper](https://arxiv.org/abs/1911.03681) | | |
 | How Can We Know What Language Models Know? | [paper](https://arxiv.org/abs/1911.12543) | | |
