@@ -20,7 +20,9 @@
 | Retrieve-and-Read: Multi-task Learning of Information Retrieval and Reading Comprehension | [paper](https://dl.acm.org/doi/10.1145/3269206.3271702) | | [Nishida et al. (2018)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Retrieve-and-Read%20-%20Multi-task%20Learning%20of%20Information%20Retrieval%20and%20Reading%20Comprehension/citation.bib)|
 | R3: Reinforced Ranker-Reader for Open-Domain Question Answering | [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16712) | | [Wang et al. (2018)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/R3%20-%20Reinforced%20Ranker-Reader%20for%20Open-Domain%20Question%20Answering/citation.bib)| 
 | Reading Wikipedia to Answer Open-Domain Questions | [paper](https://www.aclweb.org/anthology/P17-1171/) | | [Chen et al. (2017)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Reading%20Wikipedia%20to%20Answer%20Open-Domain%20Questions/citation.bib)|
-
+| End-to-End Open-Domain Question Answering with BERTserini | [paper](https://arxiv.org/abs/1902.01718)| | [Yang et al. (2019)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/End-to-End%20Open-Domain%20Question%20Answering%20with%20BERTserini/citation.bib) |
+| Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension| [paper](https://www.aclweb.org/anthology/P19-1221/)| | [Hu et al. (2019)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Retrieve-and-Read%20-%20Multi-task%20Learning%20of%20Information%20Retrieval%20and%20Reading%20Comprehension/citation.bib) |
+| REALM: Retrieval-Augmented Language Model Pre-Training| [paper](https://arxiv.org/abs/2002.08909)| | [Guu et al. (2020)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/REALM%20-%20Retrieval-Augmented%20Language%20Model%20Pre-Training/citation.bib) |
 
 
 
