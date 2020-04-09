@@ -1,6 +1,6 @@
 # Summary: REALM: Retrieval-Augmented Language Model Pre-Training
 
-Motivated by earlier results illustrating the amount of factual and relational knowledge stored in pre-trained in language models ([Petroni et al., 2019](https://www.aclweb.org/anthology/D19-1250/)), Guu et al. (2020) propose a method to capture infornmation in a more interpretable manner. For this, they introduced a new framework for pre-training: Retrieval-Augmented Language Model. This approach augments the typical pre-training of language models with a knowledge retriever.
+Motivated by earlier results illustrating the amount of factual and relational knowledge stored in pre-trained in language models ([Petroni et al., 2019](https://www.aclweb.org/anthology/D19-1250/)), Guu et al. (2020) propose a method to capture information in a more interpretable manner. For this, they introduced a new framework for pre-training: Retrieval-Augmented Language Model. This approach augments the typical pre-training of language models with a knowledge retriever.
 
 For both pre-training and fine-tuning REALM takes an input, <img src="https://render.githubusercontent.com/render/math?math=x"> and models a distribution <img src="https://render.githubusercontent.com/render/math?math=p(y | x)"> over the possible outputs <img src="https://render.githubusercontent.com/render/math?math=y">. In particular, REALM follows a *retrieve-then-predict* structure. In the retrieval step, possibly helpful documents <img src="https://render.githubusercontent.com/render/math?math=z"> are retrieved from a knowledge corpus. Then, to generate the output, condition on both the retrieved document and the original input, <img src="https://render.githubusercontent.com/render/math?math=p(y | x, z)">.
 
@@ -24,8 +24,4 @@ For the knowledge-augmented encoder, the input and the retrieved document are co
   <em>Augmentation of language model pre-training</em>
 </p>
 
-To summarise, the knowledge-retriever finds the most similar passages to a question using BERT embeddings. The retrieved passaged is then added to the original input and a prediction is made.
-
-
-
-
+To summarise, the knowledge-retriever finds the most similar passages to a question using BERT embeddings. The retrieved passaged is then added to the original input, and a prediction is made.
