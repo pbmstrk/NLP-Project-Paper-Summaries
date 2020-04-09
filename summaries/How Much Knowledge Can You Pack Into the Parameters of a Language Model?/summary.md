@@ -4,6 +4,7 @@ The approach taken by Roberts et al. (2020) differs from previous work ([Petroni
 
 <p align="center">
   <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/How%20Much%20Knowledge%20Can%20You%20Pack%20Into%20the%20Parameters%20of%20a%20Language%20Model%3F/fig/t5.png?raw=true" alt="Querying LMs and KBs for factual knowledge"/>
+  <br>
   <em>T5 is fine-tuned to answer questions without any additional context</em>
 </p>
 

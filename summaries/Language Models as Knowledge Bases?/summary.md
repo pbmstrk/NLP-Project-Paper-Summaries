@@ -6,6 +6,7 @@ The main of the idea of the LAMA probe is to express facts as cloze style questi
 
 <p align="center">
   <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Language%20Models%20as%20Knowledge%20Bases%3F/fig/QueryingLanguageModels.png?raw=true"/>
+  <br>
   <em>Querying LMs and KBs for factual knowledge</em>
 </p>
 
