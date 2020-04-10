@@ -1,8 +1,17 @@
-@misc{wang2019multipassage,
-    title={Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering},
-    author={Zhiguo Wang and Patrick Ng and Xiaofei Ma and Ramesh Nallapati and Bing Xiang},
-    year={2019},
-    eprint={1908.08167},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{wang-etal-2019-multi-passage,
+    title = "Multi-passage {BERT}: A Globally Normalized {BERT} Model for Open-domain Question Answering",
+    author = "Wang, Zhiguo  and
+      Ng, Patrick  and
+      Ma, Xiaofei  and
+      Nallapati, Ramesh  and
+      Xiang, Bing",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1599",
+    doi = "10.18653/v1/D19-1599",
+    pages = "5878--5882",
+    abstract = "BERT model has been successfully applied to open-domain QA tasks. However, previous work trains BERT by viewing passages corresponding to the same question as independent training instances, which may cause incomparable scores for answers from different passages. To tackle this issue, we propose a multi-passage BERT model to globally normalize answer scores across all passages of the same question, and this change enables our QA model find better answers by utilizing more passages. In addition, we find that splitting articles into passages with the length of 100 words by sliding window improves performance by 4{\%}. By leveraging a passage ranker to select high-quality passages, multi-passage BERT gains additional 2{\%}. Experiments on four standard benchmarks showed that our multi-passage BERT outperforms all state-of-the-art models on all benchmarks. In particular, on the OpenSQuAD dataset, our model gains 21.4{\%} EM and 21.5{\%} F1 over all non-BERT models, and 5.8{\%} EM and 6.5{\%} F1 over BERT-based models.",
 }
