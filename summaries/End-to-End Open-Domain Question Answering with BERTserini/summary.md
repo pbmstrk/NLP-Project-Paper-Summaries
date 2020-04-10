@@ -3,7 +3,7 @@
 Yang et al. (2019) address the open-domain question using a retrieve-then-read approach. For retrieval the IR (Information Retrieval) toolkit Anserini is used, and BERT is used for the machine reading component.
 
 <p align="center">
-  <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/End-to-End%20Open-Domain%20Question%20Answering%20with%20BERTserini/fig/BERTserini.png?raw=true"/>
+  <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/End-to-End%20Open-Domain%20Question%20Answering%20with%20BERTserini/fig/BERTserini.png?raw=true"  width=700px/>
   <br>
   <em>Architecture of BERTserini</em>
 </p>

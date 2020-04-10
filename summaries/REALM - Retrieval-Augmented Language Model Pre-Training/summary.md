@@ -9,7 +9,7 @@ The architecture consists of two key components:
 2. The knowledge-augmented encoder, which models <img src="https://render.githubusercontent.com/render/math?math=p(y | x, z)">.
 
 <p align="center">
-  <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/REALM%20-%20Retrieval-Augmented%20Language%20Model%20Pre-Training/fig/REALM.png?raw=true"/>
+  <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/REALM%20-%20Retrieval-Augmented%20Language%20Model%20Pre-Training/fig/REALM.png?raw=true" width=750px/>
   <br>
   <em>Overview of the REALM framework. Pre-training is shown on the left, and fine-tuning on the right</em>
 </p>
@@ -19,7 +19,7 @@ The knowledge-retriever uses the inner product to compare the embeddings (comput
 For the knowledge-augmented encoder, the input and the retrieved document are combined into a single sequence. Then depending on whether pre-training or fine-tuning, either a masked language modeling loss is used, or the start and end of the answer span are predicted.
 
 <p align="center">
-  <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/REALM%20-%20Retrieval-Augmented%20Language%20Model%20Pre-Training/fig/illustration.png?raw=true" height=300px/>
+  <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/REALM%20-%20Retrieval-Augmented%20Language%20Model%20Pre-Training/fig/illustration.png?raw=true" height=350px/>
   <br>
   <em>Augmentation of language model pre-training</em>
 </p>

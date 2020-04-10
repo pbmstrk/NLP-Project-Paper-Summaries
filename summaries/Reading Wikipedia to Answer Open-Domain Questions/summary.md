@@ -9,7 +9,7 @@ DrQA consists of two modules,
 2. Document Reader
 
 <p align="center">
-  <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Reading%20Wikipedia%20to%20Answer%20Open-Domain%20Questions/fig/DrQA.png?raw=true"/>
+  <img src="https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Reading%20Wikipedia%20to%20Answer%20Open-Domain%20Questions/fig/DrQA.png?raw=true" width=550px/>
   <br>
   <em>Overview of DrQA</em>
 </p>
