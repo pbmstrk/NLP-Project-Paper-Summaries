@@ -1,0 +1,18 @@
+@inproceedings{seo-etal-2019-real,
+    title = "Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index",
+    author = "Seo, Minjoon  and
+      Lee, Jinhyuk  and
+      Kwiatkowski, Tom  and
+      Parikh, Ankur  and
+      Farhadi, Ali  and
+      Hajishirzi, Hannaneh",
+    booktitle = "Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1436",
+    doi = "10.18653/v1/P19-1436",
+    pages = "4430--4441",
+    abstract = "Existing open-domain question answering (QA) models are not suitable for real-time usage because they need to process several long documents on-demand for every input query, which is computationally prohibitive. In this paper, we introduce query-agnostic indexable representations of document phrases that can drastically speed up open-domain QA. In particular, our dense-sparse phrase encoding effectively captures syntactic, semantic, and lexical information of the phrases and eliminates the pipeline filtering of context documents. Leveraging strategies for optimizing training and inference time, our model can be trained and deployed even in a single 4-GPU server. Moreover, by representing phrases as pointers to their start and end tokens, our model indexes phrases in the entire English Wikipedia (up to 60 billion phrases) using under 2TB. Our experiments on SQuAD-Open show that our model is on par with or more accurate than previous models with 6000x reduced computational cost, which translates into at least 68x faster end-to-end inference benchmark on CPUs. Code and demo are available at nlp.cs.washington.edu/denspi",
+}
