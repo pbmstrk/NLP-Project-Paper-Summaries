@@ -34,7 +34,9 @@
 | Denoising Distantly Supervised Open-Domain Question Answering | [paper](https://www.aclweb.org/anthology/P18-1161/) | | [Lin et al. (2018)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Denoising%20Distantly%20Supervised%20Open-Domain%20Question%20Answering/citation.bib)|
 | Weaver: Deep Co-Encoding of Questions and Documents for Machine Reading | [paper](https://arxiv.org/abs/1804.10490) | | [Raison et al. (2018)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Weaver%20-%20Deep%20Co-Encoding%20of%20Questions%20and%20Documents%20for%20Machine%20Reading/citation.bib)|
 | Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering| [paper](https://www.aclweb.org/anthology/D19-1599/) | | [Wang et al. (2019)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Multi-passage%20BERT%20-%20A%20Globally%20Normalized%20BERT%20Model%20for%20Open-domain%20Question%20Answering/citation.bib) |
-
+| Dense Passage Retrieval for Open-Domain Question Answering | [paper](https://arxiv.org/abs/2004.04906) | | [Karpukhin et al. (2020)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Dense%20Passage%20Retrieval%20for%20Open-Domain%20Question%20Answering/citation.bib) |
+| Revealing the Importance of Semantic Retrieval for Machine Reading at Scale | [paper](https://www.aclweb.org/anthology/D19-1258/) | | [Nie et al. (2019)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Revealing%20the%20Importance%20of%20Semantic%20Retrieval%20for%20Machine%20Reading%20at%20Scale/citation.bib) |
+| Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index | [paper](https://www.aclweb.org/anthology/P19-1436/) | | [Seo et al. (2019)](https://github.com/pbmstrk/NLP-Project-Paper-Summaries/blob/master/summaries/Real-Time%20Open-Domain%20Question%20Answering%20with%20Dense-Sparse%20Phrase%20Index/citation.bib) |
 
 
 
